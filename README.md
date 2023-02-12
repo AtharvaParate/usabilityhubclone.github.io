@@ -1,5 +1,3 @@
-# usabilityhubclone.github.io
-
 # Usability Hub Clone
 
 This is a cloned version of https://usabilityhub.com. The purpose of cloning this website is for learning and educational purposes.
